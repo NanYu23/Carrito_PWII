@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+    <product>
+        <id>1</id>
+        <name>Lápiz #2 Mirado</name>
+        <price>8</price>
+        <imageUrl>https://example.com/images/lapiz-mirado.jpg</imageUrl>
+        <category>Útiles escolares</category>
+        <description>Un lápiz de grafito de alta calidad...</description>
+        <inStock>1</inStock>
+    </product>
+
+    <product>
+        <id>2</id>
+        <name>Cuaderno Rayado Mirado</name>
+        <price>15</price>
+        <imageUrl>https://example.com/images/cuaderno-mirado.jpg</imageUrl>
+        <category>Útiles escolares</category>
+        <description>Cuaderno de tapa blanda...</description>
+        <inStock>1</inStock>
+    </product>
+
+    <product>
+        <id>3</id>
+        <name>Bolígrafo Azul Mirado</name>
+        <price>12</price>
+        <imageUrl>https://example.com/images/boligrafo-mirado.jpg</imageUrl>
+        <category>Útiles escolares</category>
+        <description>Bolígrafo de tinta azul...</description>
+        <inStock>1</inStock>
+    </product>
+
+    <product>
+        <id>4</id>
+        <name>Resaltador Amarillo Mirado</name>
+        <price>10</price>
+        <imageUrl>https://example.com/images/resaltador-mirado.jpg</imageUrl>
+        <category>Útiles escolares</category>
+        <description>Resaltador fluorescente...</description>
+        <inStock>0</inStock>
+    </product>
+
+    <product>
+        <id>5</id>
+        <name>Goma de Borrar Mirado</name>
+        <price>5</price>
+        <imageUrl>https://example.com/images/goma-mirado.jpg</imageUrl>
+        <category>Útiles escolares</category>
+        <description>Goma de borrar suave...</description>
+        <inStock>0</inStock>
+    </product>
+
+</products>

@@ -1,0 +1,13 @@
+<article class = "card">
+    <img class = "img" [src]="product.imageUrl" [alt]="product.name">
+    <div class = "body">
+        <div class = "top">
+            <h3 class = "title">{{ product.name }}</h3>
+            <span class = "price">${{ product.price }}</span>
+        </div>
+        <p class = "meta">{{ product.category }}</p>
+        <p class = "desc">{{ product.description }}</p>
+        <p class = "stock" [class.in-stock]=
+        "!product.inStock">@if(product.inStock) { In Stock } @else { Out of Stock }</p>
+    </div>
+</article>

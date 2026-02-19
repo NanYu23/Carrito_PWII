@@ -1,0 +1,23 @@
+.body {
+    background-color: #6b7280;
+    min-height: 100vh;
+    padding: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    margin-bottom: 16px;
+}
+
+.h1 { margin: 0 0 6px;}
+
+.p {
+    margin: 0;
+    color: #6b7280;
+}
+
+.grid {
+    display: grid;
+    gap: 16px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
