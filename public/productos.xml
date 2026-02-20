@@ -3,9 +3,9 @@
 
     <product>
         <id>1</id>
-        <name>Lápiz #2 Mirado</name>
+        <name>Lápiz #2</name>
         <price>8</price>
-        <imageUrl>https://example.com/images/lapiz-mirado.jpg</imageUrl>
+        <imageUrl>/lapiz.png</imageUrl>
         <category>Útiles escolares</category>
         <description>Un lápiz de grafito de alta calidad...</description>
         <inStock>1</inStock>
@@ -13,9 +13,9 @@
 
     <product>
         <id>2</id>
-        <name>Cuaderno Rayado Mirado</name>
+        <name>Cuaderno Rayado</name>
         <price>15</price>
-        <imageUrl>https://example.com/images/cuaderno-mirado.jpg</imageUrl>
+        <imageUrl>/cuaderno.png</imageUrl>
         <category>Útiles escolares</category>
         <description>Cuaderno de tapa blanda...</description>
         <inStock>1</inStock>
@@ -23,9 +23,9 @@
 
     <product>
         <id>3</id>
-        <name>Bolígrafo Azul Mirado</name>
+        <name>Bolígrafo Azul</name>
         <price>12</price>
-        <imageUrl>https://example.com/images/boligrafo-mirado.jpg</imageUrl>
+        <imageUrl>/boligrafo.jpg</imageUrl>
         <category>Útiles escolares</category>
         <description>Bolígrafo de tinta azul...</description>
         <inStock>1</inStock>
@@ -33,9 +33,9 @@
 
     <product>
         <id>4</id>
-        <name>Resaltador Amarillo Mirado</name>
+        <name>Resaltador Amarillo</name>
         <price>10</price>
-        <imageUrl>https://example.com/images/resaltador-mirado.jpg</imageUrl>
+        <imageUrl>/resaltador.png</imageUrl>
         <category>Útiles escolares</category>
         <description>Resaltador fluorescente...</description>
         <inStock>0</inStock>
@@ -43,9 +43,9 @@
 
     <product>
         <id>5</id>
-        <name>Goma de Borrar Mirado</name>
+        <name>Goma de Borrar</name>
         <price>5</price>
-        <imageUrl>https://example.com/images/goma-mirado.jpg</imageUrl>
+        <imageUrl>/goma.png</imageUrl>
         <category>Útiles escolares</category>
         <description>Goma de borrar suave...</description>
         <inStock>0</inStock>
