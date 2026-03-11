@@ -3,7 +3,6 @@ import { HttpClient } from '@angular/common/http';
 import { map, Observable } from 'rxjs';
 import { Product } from '../models/producto.model';
 
-
 @Injectable({ providedIn: 'root' })
 export class ProductsService {
   constructor(private http: HttpClient) {}
